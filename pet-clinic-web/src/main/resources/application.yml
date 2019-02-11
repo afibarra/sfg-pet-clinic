@@ -2,3 +2,6 @@ spring:
   banner:
     image:
       location: scooby.jpeg
+
+  messages:
+    basename: i18n/messages
